@@ -1,0 +1,28 @@
+{
+  "name": "typescript-usage-doc",
+  "version": "1.0.0",
+  "description": "typescript 使用教程 探索",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnApache/typescript-usage-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnApache/typescript-usage-doc/issues"
+  },
+  "homepage": "https://github.com/JohnApache/typescript-usage-doc#readme",
+  "dependencies": {
+    "tslib": "^1.10.0",
+    "@types/chai": "^4.2.3",
+    "@types/express": "^4.17.1",
+    "@types/gulp": "^4.0.6",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.7.5"
+  }
+}

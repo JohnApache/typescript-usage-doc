@@ -1,0 +1,15 @@
+{
+    "files": [
+        "../src/enum.ts",
+        "../src/namespace/n1.ts"
+    ],
+    "include": [
+        "../src/namespace/*",
+        "../src/module/*"
+    ],
+    "exclude": [
+        "../src/namespace/n2.ts",
+        "../src/module/m11.ts"
+    ],
+    "extends": "./tsconfig-base"
+}
