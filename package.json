@@ -11,8 +11,8 @@
     "url": "git+https://github.com/JohnApache/typescript-usage-doc.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "JohnApache",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JohnApache/typescript-usage-doc/issues"
   },
